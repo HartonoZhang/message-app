@@ -63,7 +63,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Join Whatapps API
 
-<div data-v-c76f43aa="" value="https://wa.me/14157386170?text=Join%20aids%20crane" level="L" background="#fff" foreground="#000" class=""><canvas height="187" width="187" style="width: 150px; height: 150px;"></canvas></div>
-
-Link : https://web.whatsapp.com/send?phone=14157386170&text=Join%20aids%20crane
+Link : https://web.whatsapp.com/send?phone=14157386170&text=Join%20aids%20crane <br>
 Passphrase : Join aids crane
