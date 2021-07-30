@@ -60,3 +60,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Join Whatapps API
+
+<div data-v-c76f43aa="" value="https://wa.me/14157386170?text=Join%20aids%20crane" level="L" background="#fff" foreground="#000" class=""><canvas height="187" width="187" style="width: 150px; height: 150px;"></canvas></div>
+
+Link : https://web.whatsapp.com/send?phone=14157386170&text=Join%20aids%20crane
+Passphrase : Join aids crane
