@@ -50,7 +50,7 @@ class MessageController extends Controller
             "message" => [
                 "content" => [
                     "type" => "text",
-                    "text" => "5 x " . $number . " = " . $respond_number
+                    "text" => $number . " dikalikan dengan angka 5 menghasilkan angka " . $respond_number
                 ]
             ]
         ];
