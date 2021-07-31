@@ -24,3 +24,6 @@ Route::get('/message', function() {
 });
 
 Route::post('/message', [MessageController::class, 'sendmessage']);
+
+Route::post('/webhooks/status', [MessageController::class, 'status']);
+Route::post('/webhooks/inbound', [MessageController::class, 'inbound']);
